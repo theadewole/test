@@ -78,7 +78,7 @@ Yes, you can use an API to interact with a custom GPT model, including those fin
 
 ## Question 2
 **I have a custom GPT with this default instruction below. How can I interact with it?**  
-[![View Data Dictionary](https://img.shields.io/badge/View%20Action%20Menu-Click%20Here-blue?style=for-the-badge)](https://github.com/theadewole/Prompt_Enginnering/blob/main/wed_29.md)  
+[![View Data Dictionary](https://img.shields.io/badge/View%20Action%20Menu-Click%20Here-blue?style=for-the-badge)](https://github.com/theadewole/test/blob/main/Action%20Menu.md)  
 
 ### Response:
 Since you have a **Custom GPT** with this workflow, you can interact with it via the **OpenAI Assistants API** or the **Chat Completions API**. Below are the different ways to interact with your custom GPT programmatically.
