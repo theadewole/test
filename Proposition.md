@@ -50,7 +50,7 @@ Some Age Values Are the Same: 7 out of 10 variables compared have equal values a
 - 2 variables have missing value differences.
 
 
-### The following 7 variables have completely identical values in both datasets (me.csv and dm_chatgpt.csv), meaning they have no differences:
+## The following 7 variables have completely identical values in both datasets (me.csv and dm_chatgpt.csv), meaning they have no differences:
 - USUBJID
 - SUBJID
 - DOMAIN
@@ -59,7 +59,7 @@ Some Age Values Are the Same: 7 out of 10 variables compared have equal values a
 - STUDYID
 - DMDY
 
-### The following 3 variables have differences between the two datasets (me.csv and dm_chatgpt.csv):
+## The following 3 variables have differences between the two datasets (me.csv and dm_chatgpt.csv):
 - AGE
 - RACE
 - ETHNIC
