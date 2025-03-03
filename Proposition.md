@@ -63,3 +63,5 @@ Some Age Values Are the Same: 7 out of 10 variables compared have equal values a
 - AGE
 - RACE
 - ETHNIC
+
+Basically the Assistant did not handle the AGE values very well and missed one mapping for RACE and ETHNIC which I was able to handle. 
